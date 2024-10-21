@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\React\\Employee_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C0C67-E319-4FE2-8F3B-95112D7D86C9}|Employee_app\\Employee_app.csproj|c:\\users\\user\\desktop\\react\\employee_app\\employee_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65C0C67-E319-4FE2-8F3B-95112D7D86C9}|Employee_app\\Employee_app.csproj|solutionrelative:employee_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C0C67-E319-4FE2-8F3B-95112D7D86C9}|Employee_app\\Employee_app.csproj|c:\\users\\user\\desktop\\react\\employee_app\\employee_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C0C67-E319-4FE2-8F3B-95112D7D86C9}|Employee_app\\Employee_app.csproj|solutionrelative:employee_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\React\\Employee_app\\Employee_app\\Form1.cs",
+              "RelativeDocumentMoniker": "Employee_app\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\React\\Employee_app\\Employee_app\\Form1.cs",
+              "RelativeToolTip": "Employee_app\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:43:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\React\\Employee_app\\Employee_app\\Form1.cs",
+              "RelativeDocumentMoniker": "Employee_app\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\React\\Employee_app\\Employee_app\\Form1.cs [Design]",
+              "RelativeToolTip": "Employee_app\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:08:09.571Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
